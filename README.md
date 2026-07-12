@@ -18,8 +18,8 @@ SCP: CS plugin (RP)
 |--SCP173CageBoxSpawner.lua
 |--[client]
 |  |--[Android]
-|     |--scp173_cage_box.png
-|     |--scp173cage
+|  |  |--scp173_cage_box.png
+|  |  |--scp173cage
 |  |--[Windows]
 |     |--scp173_cage_box.png
 |     |--scp173cage
